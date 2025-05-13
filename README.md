@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nicole Collins
 
-I'm an **aspiring junior data analyst** with a strong foundation in data cleaning, analysis, and visualization. I’m passionate about uncovering insights through data and turning complex problems into clear, actionable solutions.
+I'm an **aspiring data analyst** with a strong foundation in data cleaning, analysis, and visualization. I’m passionate about uncovering insights through data and turning complex problems into clear, actionable solutions.
 
 ---
 
